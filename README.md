@@ -1,0 +1,1 @@
+This notebook is a submission for the Kaggle competition Histopathologic Cancer Detection.  The notebook is under CNN_Cancer_Detection, and is an image classification model.  The data is not uploaded as it consists solely of Cancer reasearch images, and is too large in file size.
